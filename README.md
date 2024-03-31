@@ -13,3 +13,6 @@ The project created to fulfill individual assignments from Independent Study Cel
 
 **Client:** HTML, CSS, TAILWINDCSS
 
+## Deploy Website
+
+[**Link Website**](https://bagusari-portfolio.vercel.app/)
